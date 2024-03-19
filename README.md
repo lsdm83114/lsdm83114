@@ -9,7 +9,7 @@
     "url": "https://api.github.com/users/Spaceghost",
     "html_url": "https://github.com/Spaceghost",
     "followers_url": "https://api.github.com/users/Spaceghost/followers",
-    "following_url": "https://api.github.com/users/Spaceghost/following{/other_user}",
+    "following_url": "httpshttps://www.facebook.com/CeedoMOB
     "gists_url": "https://api.github.com/users/Spaceghost/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Spaceghost/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Spaceghost/subscriptions",
